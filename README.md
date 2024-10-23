@@ -1,6 +1,6 @@
 # 功能需求
 ### 1. 文章管理
-* 發布新聞文章、編輯、刪除文章
+* 發布新文章、編輯、刪除文章
 * 支援 Markdown 編輯器
 * 顯示文章標題、摘要；發表時間、作者
 ### 2. 分類與標籤管理
@@ -50,11 +50,15 @@
 * TagId (FK -> Tag)
 
 ### 6. Comment(留言表)
-* CoommentId (PK)
+* CommentId (PK)
 * PostId (FK -> Post)
 * AuthorName
 * Content
 * CreateAt
+
+## ER Model
+
+![](./Simple%20Blog%20ER%20Model.drawio.png)
 
 ---
 
