@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\KUEI\\Desktop\\SimpleBlog\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46401E4B-7DC3-46AF-A91F-DBA08D8F6C5C}|SimpleBlog\\SimpleBlog.csproj|c:\\users\\kuei\\desktop\\simpleblog\\simpleblog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46401E4B-7DC3-46AF-A91F-DBA08D8F6C5C}|SimpleBlog\\SimpleBlog.csproj|solutionrelative:simpleblog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KUEI\\Desktop\\SimpleBlog\\SimpleBlog\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleBlog\\Program.cs",
+              "ToolTip": "C:\\Users\\KUEI\\Desktop\\SimpleBlog\\SimpleBlog\\Program.cs",
+              "RelativeToolTip": "SimpleBlog\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:00:40.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

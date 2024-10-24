@@ -56,7 +56,9 @@
 * Content
 * CreateAt
 
-## ER Model
+---
+
+# ER Model
 
 ![](./Simple%20Blog%20ER%20Model.drawio.png)
 

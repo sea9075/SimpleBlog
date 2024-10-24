@@ -1,0 +1,12 @@
+C:\Users\KUEI\Desktop\SimpleBlog\SimpleBlog.Utility\bin\Debug\net8.0\SimpleBlog.Utility.deps.json
+C:\Users\KUEI\Desktop\SimpleBlog\SimpleBlog.Utility\bin\Debug\net8.0\SimpleBlog.Utility.dll
+C:\Users\KUEI\Desktop\SimpleBlog\SimpleBlog.Utility\bin\Debug\net8.0\SimpleBlog.Utility.pdb
+C:\Users\KUEI\Desktop\SimpleBlog\SimpleBlog.Utility\obj\Debug\net8.0\SimpleBlog.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KUEI\Desktop\SimpleBlog\SimpleBlog.Utility\obj\Debug\net8.0\SimpleBlog.Utility.AssemblyInfoInputs.cache
+C:\Users\KUEI\Desktop\SimpleBlog\SimpleBlog.Utility\obj\Debug\net8.0\SimpleBlog.Utility.AssemblyInfo.cs
+C:\Users\KUEI\Desktop\SimpleBlog\SimpleBlog.Utility\obj\Debug\net8.0\SimpleBlog.Utility.csproj.CoreCompileInputs.cache
+C:\Users\KUEI\Desktop\SimpleBlog\SimpleBlog.Utility\obj\Debug\net8.0\SimpleBlog.Utility.sourcelink.json
+C:\Users\KUEI\Desktop\SimpleBlog\SimpleBlog.Utility\obj\Debug\net8.0\SimpleBlog.Utility.dll
+C:\Users\KUEI\Desktop\SimpleBlog\SimpleBlog.Utility\obj\Debug\net8.0\refint\SimpleBlog.Utility.dll
+C:\Users\KUEI\Desktop\SimpleBlog\SimpleBlog.Utility\obj\Debug\net8.0\SimpleBlog.Utility.pdb
+C:\Users\KUEI\Desktop\SimpleBlog\SimpleBlog.Utility\obj\Debug\net8.0\ref\SimpleBlog.Utility.dll

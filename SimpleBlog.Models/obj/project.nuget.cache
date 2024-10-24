@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZyMHv6FPNZ4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KUEI\\Desktop\\SimpleBlog\\SimpleBlog.Models\\SimpleBlog.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KUEI\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.10\\microsoft.entityframeworkcore.abstractions.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
